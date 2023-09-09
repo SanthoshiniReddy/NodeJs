@@ -1,0 +1,8 @@
+h1{
+    color: blue;
+}
+body{
+    background-image: url('../img/batman.jpeg');
+    width: 100%;
+    height: 100%;
+}
